@@ -1,15 +1,27 @@
 # Portfolio
-Portfolio for Embedded/System SW Engineer
+Portfolio for Embedded/System SW Engineer. <br/>
+This doesn't contain private information. 
+
+# Summary
+
+# Preparation
 
 # Contents of This
-[!] I have to make details in each chapter referencing #1 
-- Experience
+- Experience 
 - Interest
 - Activities
 - Projects
 - Contribution 
 
+# Desired Job Position
+
 # Reference
-I need more search. <br/>
 [1] https://runtimerec.com/how-to-build-an-embedded-engineering-portfolio/ 
+
+---
+Thank for Reading This. <br/>
+I wish your company to be prosperous always. <br/>
+
+Best regards to your company.
+
 
